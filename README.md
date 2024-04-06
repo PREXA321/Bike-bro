@@ -5,11 +5,11 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ajmoradiya6/bike-buddy">
+  <a href="https://github.com/PREXA321/Bike-bro">
     <img src="assets/images/favicon.png" alt="Logo" width="200" height="200">
   </a>
 
-<a href="https://github.com/ajmoradiya6/bike-buddy">
+<a href="https://github.com/PREXA321/Bike-bro">
     <img src="assets/images/BIKEBUDDY LOGO WHITE.png" alt="Logo" width="800" height="100">
   </a>
 
@@ -18,17 +18,14 @@
     Bike Buddy ensures that your child's cycling adventures are as safe as can be, giving you the ultimate peace of mind. With its cutting-edge route and mapping optimisation technology, you can trust that your little ones are always cycling on the safest roads available. Give yourself the gift of worry-free afternoons and let Bike Buddy be your go-to companion for all things cycling-related.
     <br/>
     <br/>
-    Bike Buddy is proudly built by: Akshay Moradiya
+    Bike Bro is proudly built by: Prexa Kamani
     <br />
     <br/>
-    <a href="https://github.com/ajmoradiya6/bike-buddy"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://ajmoradiya6.github.io/bike-buddy/">View Live Website</a>
+    <a href="https://github.com/PREXA321/Bike-bro"><strong>Explore the docs »</strong></a>
+    <br /> ·
+    <a href="https://github.com/PREXA321/Bike-bro">Report Bug</a>
     ·
-    <a href="https://github.com/ajmoradiya6/bike-buddy/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/ajmoradiya6/bike-buddy/issues">Request Feature</a>
+    <a href="https://github.com/PREXA321/Bike-bro">Request Feature</a>
   </p>
 </div>
 
@@ -68,7 +65,7 @@
 
 ### Screenshot
 
-[![Product Name Screen Shot][product-screenshot]](https://ajmoradiya6.github.io/bike-buddy/)
+[![Product Name Screen Shot][product-screenshot]](https://github.com/PREXA321/Bike-bro)
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
