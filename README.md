@@ -172,7 +172,7 @@ Don't forget to give the project a star! Thanks again!
 <a href="https://www.linkedin.com/in/prexa-kamani-b384461b0/">Prexa Kamani</a>
 
 
-Project Link: [hhttps://github.com/PREXA321/Bike-bro](hhttps://github.com/PREXA321/Bike-bro)
+Project Link: [hhttps://github.com/PREXA321/Bike-bro](https://github.com/PREXA321/Bike-bro)
 
 <p align="right"><a href="#readme-top">back to top</a></p>
 
